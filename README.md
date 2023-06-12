@@ -24,11 +24,11 @@ The face recognition code is designed to analyze live video feed from a webcam a
 
 The following technologies are used in the code:
 
-- Python: The programming language used for developing the face recognition code.
-- deepface: A Python library for face analysis that provides pre-trained models and utilities for face recognition tasks.
-- OpenCV: A popular computer vision library used for image and video processing.
-- scikit-learn: A machine learning library in Python used for implementing the Nearest Neighbors algorithm.
-- rich: A Python library for rich text and beautiful formatting in the console.
+- _Python_: The programming language used for developing the face recognition code.
+- _deepface_: A Python library for face analysis that provides pre-trained models and utilities for face recognition tasks.
+- _OpenCV_: A popular computer vision library used for image and video processing.
+- _scikit-learn_: A machine learning library in Python used for implementing the Nearest Neighbors algorithm.
+- _rich_: A Python library for rich text and beautiful formatting in the console.
 
 ## Development Process
 
