@@ -10,7 +10,7 @@ The face recognition code is designed to analyze live video feed from a webcam a
 
 - **Nearest Neighbors Algorithm**: To optimize the face matching process, the code implements the Nearest Neighbors algorithm. By training a search model using user embeddings, the algorithm efficiently finds the closest match for a given face embedding, resulting in faster and more accurate face recognition.
 
-- ****
+****
 
 ## Setup 🖥️
 
