@@ -1,4 +1,4 @@
-# Life Facial Recognition 
+# Life Facial Recognition with OpenCV
 
 ## Introduction
 
