@@ -10,6 +10,8 @@ The face recognition code is designed to analyze live video feed from a webcam a
 
 - **Nearest Neighbors Algorithm**: To optimize the face matching process, the code implements the Nearest Neighbors algorithm. By training a search model using user embeddings, the algorithm efficiently finds the closest match for a given face embedding, resulting in faster and more accurate face recognition.
 
+- **.npy Embedded Mean**: After the fine-tuning process, the code calculates the mean of the generated face embeddings for each user. These mean embeddings are then saved in a .npy file. By saving the mean embeddings, subsequent face matching tasks can be expedited, as the code only needs to compare the incoming face embeddings with the mean embeddings, reducing computational overhead.
+
 ****
 
 ## Setup 🖥️
