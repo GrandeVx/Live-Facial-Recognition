@@ -1,5 +1,7 @@
 # Life Facial Recognition with OpenCV
 
+[![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)]
+
 ## Introduction
 
 The face recognition code is designed to analyze live video feed from a webcam and identify individuals by comparing their faces to a pre-defined database. The code utilizes the FaceNet512 model for face embedding and introduces a video analysis system for fine-tuning face detection. Additionally, the Nearest Neighbors algorithm is employed to speed up the face matching process.
