@@ -1,9 +1,9 @@
 # Life Facial Recognition 
 
-##Introduction
+## Introduction
 The face recognition code is designed to analyze live video feed from a webcam and identify individuals by comparing their faces to a pre-defined database. The code utilizes the FaceNet512 model for face embedding and the Nearest Neighbors algorithm for face matching.
 
-##Technologies Used
+## Technologies Used
 The following technologies are used in the code:
 
   Python: The programming language used for developing the face recognition code.
