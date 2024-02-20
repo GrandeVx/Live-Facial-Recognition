@@ -1,4 +1,4 @@
-# Life Facial Recognition with OpenCV
+# Live Facial Recognition with OpenCV
 
 [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/GrandeVx/Live-Facial-Recognition/blob/main/LICENSE.txt)  
 
